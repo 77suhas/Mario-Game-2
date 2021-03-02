@@ -1,0 +1,41 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+.heading {
+  width: 100%;
+  text-align: left;
+}
+h2 {
+  display: inline;
+}
+#button {
+  border: 1px solid white;
+  font-size: 20px;
+  float: right;
+}
+#mario_image {
+  width: 100%;
+}
+#play_button {
+  font-size: 20px;
+  border: 1px solid black;
+}
+#footer {
+  position: fixed;
+  bottom: 0;
+  background-color: pink;
+  width: 100%;
+  font-size: 20px;
+  line-height: 2;
+}
+.modal-dialog {
+  width: 90%;
+}
+.image {
+  display: inline-block;
+  width: 45%;
+}
+.modal-header h3 {
+  display: inline-block;
+}
